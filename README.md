@@ -1,11 +1,10 @@
-# Spatial_Databases_Project
+### Spatial_Databases_Project
 
 
 
 # Network-based Cost Matrix Calculation: 
 # `pgRouting` in a `Python` Environment with `SQLAlchemy`
 
-----
 
 ----
 
@@ -18,11 +17,10 @@
 ----
 
 
+    GNU LESSER GENERAL PUBLIC LICENSE
+    Version 3, 29 June 2007
+    Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+    Everyone is permitted to copy and distribute verbatim copies
+    of this license document, but changing it is not allowed.
 
-#    GNU LESSER GENERAL PUBLIC LICENSE
-#    Version 3, 29 June 2007
-#    Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
-#    Everyone is permitted to copy and distribute verbatim copies
-#    of this license document, but changing it is not allowed.
-
-#    James Gaboardi, 2016
+    James Gaboardi, 2016
